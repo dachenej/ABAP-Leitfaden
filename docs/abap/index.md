@@ -36,7 +36,7 @@ Dieses Kapitel teilt sich in folgende Abschnitte auf:
 - [**Sauberer und moderner Code**](/ABAP-Leitfaden/abap/clean_and_modern_abap)  
     Was für die übergeordnete Struktur gilt, ist auch für ABAP Code gültig. Clean Code Prinzipien anzuwenden und modernen ABAP Code zu schreiben zahlt sich bereits während der Entwicklung aus.
 
-- [**Restful Application Programming Model - RAP**](/ABAP-Leitfaden/abap/restful_abap)  
+- [**ABAP RESTful Application Programming Model - RAP**](/ABAP-Leitfaden/abap/restful_abap)  
     Empfehlungen und das Vorgehen bei Entwicklung von RAP Applikationen finden Sie in diesem Kapitel.
 
 Für eine effiziente Transformation der Organisation und der Entwickler zu moderner SAP Entwicklung braucht es Rahmenbedingungen und ein Enabling der Entwicklungsteams. 
