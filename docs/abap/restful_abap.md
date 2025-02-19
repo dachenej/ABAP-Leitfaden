@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Das ABAP Restful Application Programming Model (RAP)
+title: ABAP Restful Application Programming Model (RAP)
 permalink: /abap/restful_abap/
 parent: Moderne ABAP Entwicklung
 nav_order: 5
@@ -16,7 +16,7 @@ nav_order: 5
 ## Einleitung
 Motivation, wo anfangen? Spiritueller Nachfolger vom BOPF-basierten Programmiermodell für SAP Fiori.
 ABAP RESTful Application Programming Model (RAP)
-REST: Erklärung, Nutzung von OData-Service als Schnittstelle zwischen Consumer & ABAP B
+REST: Erklärung, Nutzung von OData-Service als Schnittstelle zwischen Consumer & ABAP BackEnd
 
 Das Prinzip von RAP  
 Framework - dedizierte Stellen wo was passiert  
