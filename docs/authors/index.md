@@ -2,8 +2,7 @@
 layout: page
 title: Autoren & Reviewer
 permalink: /authors/
-next_page_title: Autoren & Reviewer
-nav_order: 14
+nav_order: 15
 ---
 
 {: .no_toc}
@@ -73,8 +72,8 @@ nav_order: 14
 <td></td>
 </tr>
 <tr class="header">
-<td>Fabian Lupa</td>
-<td>Adesso</td>
+<td><a href="https://www.linkedin.com/in/fabianlupa/">Fabian Lupa</a></td>
+<td>adesso orange AG</td>
 <td>Schreiben, Review</td>
 </tr>
 <tr class="odd">
